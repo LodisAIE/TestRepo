@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "COMMIT AND PUSH";
+	std::cout << "Hello Universe";
 	return 0;
 }
